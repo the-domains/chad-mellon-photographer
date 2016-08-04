@@ -1,16 +1,16 @@
-typography_spectrum: 0.893229995155707
+typography_spectrum: 0.9260870278812945
 color:
-  brandStrength: 0.797525979578495
-  lightness: 0.4568630896974355
-  saturation: 0.19146008510142565
-  rhythmicContrast: 0.0057259660679847
+  brandStrength: 0.5039198440499604
+  lightness: 0.6844740556553006
+  saturation: 0.015554538695141673
+  rhythmicContrast: 0.5314897724892944
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.21470195590518415
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.6021609110757709
 name: Chad Mellon Photographer
 title: C H A D  M E L L O N
 description: ARCHITECTURE // ADVERTISING // TRAVEL
