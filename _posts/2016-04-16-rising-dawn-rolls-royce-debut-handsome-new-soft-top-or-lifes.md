@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:01:38.800Z'
+datePublished: '2016-08-04T20:43:30.800Z'
 sourcePath: >-
   _posts/2016-04-16-rising-dawn-rolls-royce-debut-handsome-new-soft-top-or-lifes.md
 inFeed: true
@@ -22,8 +22,9 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-04T19:01:36.512Z'
-title: 'Rising dawn: Rolls-Royce debut handsome new soft-top.'
+via: {}
+dateModified: '2016-08-04T20:43:30.027Z'
+title: TRAVEL
 app_links: []
 publisher:
   name: Wallpaper*
@@ -37,10 +38,9 @@ description: >-
   were full of Ferraris, Maseratis and other exotic metal.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Rising dawn: Rolls-Royce debut handsome new soft-top.</h1><p>The Rolls-Royce Dawn made its debut in an underground car park, just a stone's throw from Wallpaper's HQ. Granted, it was the car park beneath Rogers Stirk Harbour + Partners' award-winning Neo Bankside development, and the other bays were full of Ferraris, Maseratis and other exotic metal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9722ec934a561a202db1ac3eff4119777420ed.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e9722ec934a561a202db1ac3eff4119777420ed.jpg" /><h1>TRAVEL</h1><p>The Rolls-Royce Dawn made its debut in an underground car park, just a stone's throw from Wallpaper's HQ. Granted, it was the car park beneath Rogers Stirk Harbour + Partners' award-winning Neo Bankside development, and the other bays were full of Ferraris, Maseratis and other exotic metal.</p></article>
