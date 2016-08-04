@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:01:38.813Z'
+datePublished: '2016-08-04T20:42:41.520Z'
 sourcePath: >-
   _posts/2016-04-16-bistro-proti-proudu-prague-czech-republic-or-travel-or-wallp.md
 inFeed: true
@@ -22,8 +22,9 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-04T19:01:36.895Z'
-title: 'Bistro Proti Proudu, Prague, Czech Republic '
+via: {}
+dateModified: '2016-08-04T20:42:40.980Z'
+title: ARCHITECTURE
 app_links: []
 publisher:
   name: Wallpaper*
@@ -37,10 +38,9 @@ description: >-
   neighbourhood's most significant historical figure, engineer František Križík.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Bistro Proti Proudu, Prague, Czech Republic </h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg" /><h1>ARCHITECTURE</h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p></article>
