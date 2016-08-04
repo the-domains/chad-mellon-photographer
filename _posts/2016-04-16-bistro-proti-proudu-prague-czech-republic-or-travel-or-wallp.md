@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T19:01:38.800Z'
+datePublished: '2016-08-04T19:01:38.813Z'
 sourcePath: >-
   _posts/2016-04-16-bistro-proti-proudu-prague-czech-republic-or-travel-or-wallp.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-04T19:01:36.674Z'
+dateModified: '2016-08-04T19:01:36.895Z'
 title: 'Bistro Proti Proudu, Prague, Czech Republic '
 app_links: []
 publisher:
