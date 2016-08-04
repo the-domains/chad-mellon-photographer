@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T20:43:53.044Z'
+datePublished: '2016-08-04T20:44:08.821Z'
 sourcePath: _posts/2016-04-15-city-guide-spotlight-new-york-city.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/travel/city-guide-nyc-2016-march'
@@ -21,8 +21,8 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-04T20:43:52.674Z'
-title: 'City Guide Spotlight: New York City'
+dateModified: '2016-08-04T20:44:08.238Z'
+title: PUBLISHED
 app_links: []
 publisher:
   name: Cool Hunting
@@ -41,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af7a9d273d9a3ad652d9db0e555c5988fb81d7ec.jpg" /><h1>City Guide Spotlight: New York City</h1><p>A few days ahead of NYC's hectic and inspiring Armory Week, Scope and Pulse Art Fairs, we embarked upon an overhaul of our NYC City Guide. While there were some stalwarts that needed to be added, New York City's ever-evolving nature means plenty of brand new spots made the list.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af7a9d273d9a3ad652d9db0e555c5988fb81d7ec.jpg" /><h1>PUBLISHED</h1><p>A few days ahead of NYC's hectic and inspiring Armory Week, Scope and Pulse Art Fairs, we embarked upon an overhaul of our NYC City Guide. While there were some stalwarts that needed to be added, New York City's ever-evolving nature means plenty of brand new spots made the list.</p></article>
