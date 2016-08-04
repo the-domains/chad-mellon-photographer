@@ -1,4 +1,3 @@
-layout_spectrum: 0.21470195590518415
 typography_spectrum: 0.893229995155707
 color:
   brandStrength: 0.797525979578495
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.21470195590518415
 name: Chad Mellon Photographer
 title: C H A D  M E L L O N
+description: ARCHITURE // ADVERTISING // TRAVEL
